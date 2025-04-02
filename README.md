@@ -2,7 +2,7 @@
 ## 🤔 About me?
 
 ### Hi ✌🏽, I'm Apinaya Ariyarasa  
-**Software Engineer**
+**Software Engineer || Freelancer**
 
 ![Profile views](https://komarev.com/ghpvc/?username=ApinayaAriyarasa&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -16,7 +16,7 @@
 
 ## 🌐 Connect with Me  
 
-<p align="center">
+<p>
   <a href="https://www.youtube.com/@ApinayaAriyarasa" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
@@ -48,7 +48,7 @@
 
 ![Apinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apinaya2001&show_icons=true&theme=tokyonight) 
 
-
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apinaya2001&layout=compact&theme=tokyonight)  
 
