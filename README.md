@@ -9,15 +9,14 @@
 
 - 🎓 I'm currently studying **BSc (Hons) Software Engineering** at ICBT, Sri Lanka  
 - 💻 I'm experienced in:  
-  JavaScript, React, Next.js, Node.js, Angular, Tailwind CSS, Bootstrap, Laravel, Firebase, AWS, Linode, GitHub, Bitbucket  
-- 🧠 I love working on MERN Stack, APIs, and cloud deployments  
-- 💬 Ask me about **Next.js, Tailwind CSS, MERN Stack, AWS, Firebase, Linode**  
-- 📮 Reach me at **apijayawardana@gmail.com**
+   Angular, JavaScript, React, Next.js, Node.js, Tailwind CSS, Bootstrap, Laravel, Express.js, AWS, GitHub  
+- 🧠 I love working on MERN Stack, APIs, and cloud deployments   
+- 📮 Reach me at **apinayaariyarasa@gmail.com**
 
 ## 🌐 Social media  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![YouTube](https://www.youtube.com/@ApinayaAriyarasa)](https://youtube.com/yourchannel)  
+[![LinkedIn](https://www.linkedin.com/in/apinaya-ariyarasa-736069287/)](https://linkedin.com/in/yourprofile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
 ## 💻 Languages and Tools
