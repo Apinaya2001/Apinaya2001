@@ -1,7 +1,10 @@
 
-## 🤔 About me?
+<p class="text-2xl font-bold">🤔 About me?</p>
 
-### Hi ✌🏽, I'm Apinaya Ariyarasa  
+<div class="text-center">
+  <p class="text-3xl font-semibold">Hi ✌🏽, I am Apinaya Ariyarasa</p>
+</div>
+ 
 **Software Engineer || Freelancer**
 
 ![Profile views](https://komarev.com/ghpvc/?username=ApinayaAriyarasa&label=Profile%20views&color=0e75b6&style=flat)
