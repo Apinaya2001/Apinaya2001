@@ -1,16 +1,33 @@
-## Hi there 👋
+🏆 Hi ✌🏽, I'm Apinaya Ariyarasa
+🚀 Software Engineer | Full-Stack Developer | Freelancer
 
-<!--
-**Apinaya2001/Apinaya2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Passionate about building web applications, exploring AI, and sharing knowledge.
 
-Here are some ideas to get you started:
+📚 Currently pursuing BSc in Software Engineering at ICBT, Sri Lanka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Experience
+
+Frontend & Full-Stack Development (React, Next.js, Angular, Laravel, Node.js)
+
+Marketplace, HRMS, and Admin Dashboard applications
+
+Freelancer at Thamilizhi & Skilzmatrix
+
+Currently working at QQUST
+
+💡 Skills & Tech Stack
+
+Frontend: React, Next.js, Angular, Tailwind CSS, Bootstrap
+
+Backend: Node.js, Express.js, Django, Laravel
+
+Database: MySQL, PostgreSQL, MongoDB, SQLite3
+
+Cloud & DevOps: AWS, Firebase, Vercel, Linode
+
+Version Control: GitHub, GitLab, Bitbucket
+
+📬 Get in Touch
+📧 apinayaariyarasa@gmail.com
+
+🔥 Let's connect and build something amazing together! 🚀
