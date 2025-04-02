@@ -14,11 +14,19 @@
 
 ---
 
-## 🌐 Social media  
+## 🌐 Connect with Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/yourchannel](https://www.youtube.com/@ApinayaAriyarasa))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/apinaya-ariyarasa-736069287/))  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/apinaya._ariyarasa?igsh=MWE2N2ltdWM5N3Q2Mw==))
+<p align="center">
+  <a href="https://www.youtube.com/@ApinayaAriyarasa" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/in/apinaya-ariyarasa-736069287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/apinaya._ariyarasa?igsh=MWE2N2ltdWM5N3Q2Mw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
