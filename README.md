@@ -1,4 +1,5 @@
-![MasterHead](https://your-banner-image-url-here.com/banner.png)
+![MasterHead](https://raw.githubusercontent.com/Apinaya2001/Apinaya2001/main/banner.png)
+
 
 ## 🤔 About me?
 
@@ -38,15 +39,12 @@
 
 ---
 
-## 📊 Apinaya Ariyarasa's GitHub Stats
 
 ![Apinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apinaya2001&show_icons=true&theme=tokyonight) 
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApinayaAriyarasa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apinaya2001&layout=compact&theme=tokyonight)  
 
 ---
 
