@@ -40,7 +40,7 @@
 
 ## 📊 Apinaya Ariyarasa's GitHub Stats
 
-![Apinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApinayaAriyarasa&show_icons=true&theme=tokyonight)
+![Apinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apinaya2001&show_icons=true&theme=tokyonight) 
 
 ---
 
