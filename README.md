@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.0.0-alpha.0/dist/tailwind.min.css" rel="stylesheet">
+
 ## 🤔 About me?
 <div class="text-center">
   <p class="text-3xl font-semibold">Hi ✌🏽, I am Apinaya Ariyarasa</p>
