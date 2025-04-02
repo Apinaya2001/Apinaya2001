@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently studying **BSc (Hons) Software Engineering** at ICBT, Sri Lanka  
 - 💻 I'm experienced in:  
-  JavaScript, React, Next.js, Node.js, Angular, Tailwind CSS, Bootstrap, Laravel, Express.js, AWS, GitHub,  
+  Typescript, JavaScript, Java, React, Next.js, Node.js, Angular, Tailwind CSS, Bootstrap, Laravel, Express.js, AWS, GitHub,  
 - 🧠 I love working on MERN Stack, APIs, and cloud deployments    
 - 📮 Reach me at **apinayaariyarasa@gmail.com**
 
