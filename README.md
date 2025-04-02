@@ -1,5 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/Apinaya2001/Apinaya2001/main/banner.png)
-
 
 ## 🤔 About me?
 
@@ -42,10 +40,7 @@
 
 ![Apinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apinaya2001&show_icons=true&theme=tokyonight) 
 
----
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apinaya2001&layout=compact&theme=tokyonight)  
 
----
-
-| I am Apinaya Ariyarasa |
